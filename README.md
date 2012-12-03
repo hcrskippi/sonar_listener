@@ -1,2 +1,4 @@
-sonar_listener
+laser_scanners
 ==============
+
+Forward-facing Hokuyo laser scanners
