@@ -13,7 +13,7 @@ def detectSteps(data):
     STEP_THRESH = 6
 
     # Height of sonars from ground 1, 2, 3, 4 (cm)
-    SONAR_HEIGHT = [10,10,20,20]
+    SONAR_HEIGHT = [10,10,10,10]
 
     # Create publisher
     pub = rospy.Publisher('sonar_step_detect', String)
